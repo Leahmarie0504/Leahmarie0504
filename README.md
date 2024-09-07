@@ -6,7 +6,7 @@ Hi! I'm Leah, a passionate developer who loves building innovative mobile and we
 
 ## 🚀 Projects I'm Working On
 
-- **[Hustle Bucks]**: A gamified productivity app where users earn points for completing tasks and interact with a virtual buddy. Built with **React.js** and **Firebase**.
+- **Hustle Bucks**: A gamified productivity app where users earn points for completing tasks and interact with a virtual buddy. Built with **React.js** and **Firebase**.
 - **Other Projects**: More projects coming soon! I'm continuously working on sharpening my skills and learning new technologies.
 
 ---
@@ -35,8 +35,6 @@ Hi! I'm Leah, a passionate developer who loves building innovative mobile and we
 ---
 
 ## 📫 How to Reach Me
-
-- Email: [leahmarie0504@gmail.com](mailto:leahmarie0504@gmail.com)
 - LinkedIn: [linkedin.com/in/leah-a-462880166](https://www.linkedin.com/in/leah-a-462880166)
 
 Feel free to explore my repositories, and thanks for visiting!
