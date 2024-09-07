@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-Hi! I'm Leah, a passionate developer who loves building innovative mobile and web applications. I recently graduated with an A.S. in Computer Programming and Analysis and am working on exciting projects like **Hustle Bucks**, a productivity app with gamified elements.
+Hi! I'm Leah, a passionate developer who loves building innovative mobile and web applications. I recently graduated with an A.S. in Computer Programming and Analysis and am working on exciting projects like Hustle Bucks, a productivity app with gamified elements.
 
 ---
 
